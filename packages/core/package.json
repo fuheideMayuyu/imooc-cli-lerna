@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-lerna/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "imooc-cli-lerna core",
   "author": "fuheideMayuyu <xiaguangding@163.com>",
   "homepage": "",
@@ -24,6 +24,6 @@
     "test": "echo \"Run test testing from core\""
   },
   "dependencies": {
-    "@imooc-cli-lerna/utils": "^1.0.2"
+    "@imooc-cli-lerna/utils": "^1.0.4"
   }
 }
